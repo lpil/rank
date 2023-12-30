@@ -1,0 +1,17 @@
+name = "rank"
+version = "1.0.0"
+description = "Ordinals for numbers, e.g. 1st, 2nd, 3rd"
+licences = ["Apache-2.0"]
+repository = { type = "github", user = "lpil", repo = "glance" }
+links = [
+  { title = "Website", href = "https://gleam.run" },
+  { title = "Sponsor", href = "https://github.com/sponsors/lpil" },
+]
+gleam = ">= 0.32.0"
+
+
+[dependencies]
+gleam_stdlib = "~> 0.32"
+
+[dev-dependencies]
+gleeunit = "~> 1.0"
