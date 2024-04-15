@@ -2,7 +2,7 @@ name = "rank"
 version = "1.0.0"
 description = "Ordinals for numbers, e.g. 1st, 2nd, 3rd"
 licences = ["Apache-2.0"]
-repository = { type = "github", user = "lpil", repo = "glance" }
+repository = { type = "github", user = "lpil", repo = "rank" }
 links = [
   { title = "Website", href = "https://gleam.run" },
   { title = "Sponsor", href = "https://github.com/sponsors/lpil" },
