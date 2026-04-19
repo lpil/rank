@@ -1,7 +1,7 @@
-import gleeunit
-import gleam/io
 import gleam/int
+import gleam/io
 import gleam/list
+import gleeunit
 import gleeunit/should
 import rank
 
