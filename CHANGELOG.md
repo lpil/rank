@@ -1,8 +1,8 @@
 # Changelog
 
-## Unreleased
+## v1.1.0  - 2026-04-19
 
-- Support stdlib 1.0.0
+- Updated to support `gleam_stdlib` v1.0.0.
 
 ## v1.0.0  - 2023-12-30
 

@@ -6,7 +6,7 @@ Ordinals for numbers, e.g. 1st, 2nd, 3rd
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/rank/)
 
 ```sh
-gleam add rank
+gleam add rank@1
 ```
 ```gleam
 import rank

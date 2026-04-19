@@ -1,5 +1,5 @@
 name = "rank"
-version = "1.0.0"
+version = "1.1.0"
 description = "Ordinals for numbers, e.g. 1st, 2nd, 3rd"
 licences = ["Apache-2.0"]
 repository = { type = "github", user = "lpil", repo = "rank" }
